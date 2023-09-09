@@ -78,8 +78,7 @@
 #texto1{
     font-size: 14px;
     text-align: right;
-    position: fixed;
-    top: 360px;
-    right: 485px;
+    position: static;
+    
 }
 
