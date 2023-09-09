@@ -1,0 +1,31 @@
+.recuadro{
+    margin: 0 auto;
+     text-align: center;
+    background-color: #dbdad8;
+    width: 30%;
+    position: absolute;
+     top: 150px; 
+     left: 500px;
+     color:#dbdad8 ;
+}
+#mitabla{
+    text-align: center;
+    margin:  auto;
+    width: 90%;
+}
+#morado{
+    background-color: #6a4b8f; 
+     color: #6a4b8f;
+}
+#verde{
+    background-color: #518e03;
+    color: #518e03;
+}
+#amarillo{
+    background-color:#eacf1c; 
+    color: #eacf1c;
+}
+#rojo{
+background-color: #d23f2b; 
+ color: #d23f2b;
+}
